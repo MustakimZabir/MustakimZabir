@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustakimZabir
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning front end coding
 - 💞️ I’m looking to collaborate on projects on website
 - 📫 How to reach me mustakimzabir@gmail.com
